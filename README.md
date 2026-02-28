@@ -78,11 +78,13 @@ I'm a Software Engineering student who loves turning complex problems into elega
 
   <h2>👾 Take a break from reading code...</h2>
 
-  <a href="https://Senurcreate.github.io/Senurcreate/tetris/">
-    <img src="./tetris.gif" width="250" alt="Tetris Gameplay">
-  </a>
+  
+  <img src="./tetris.gif" width="250" alt="Tetris Gameplay">
+ 
   <br><br>
+  <a href="https://Senurcreate.github.io/Senurcreate/tetris/">
     <img src="https://img.shields.io/badge/🕹️_Click_Here_to_Play_Tetris!-2ea44f?style=for-the-badge" alt="Play Tetris">
+  </a>
 
   <p><i>(Pro tip: Middle-click or hold Ctrl/Cmd while clicking to open in a new tab!)</i></p>
 
