@@ -75,3 +75,7 @@ I'm a Software Engineering student who loves turning complex problems into elega
 `VS Code` `Visual Studio` `Eclipse` `Code::Blocks`  
 `PyCharm` `Jira`
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 👾 Take a break from reading code...
+[![Play Tetris](https://via.placeholder.com/600x150/111/fff?text=Click+Here+to+Play+Tetris!)](https://[your-username].github.io/[your-repository-name]/tetris/)
