@@ -16,10 +16,10 @@ I'm a Software Engineering student who loves turning complex problems into elega
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Senurcreate&theme=nord" width="40%" />
 
 # 📊 GitHub Stats:
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Senurcreate&theme=github_dark" width="40%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Senurcreate&theme=nord_dark" width="40%" />
 
 ### 📊 GitHub Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Senurcreate&theme=github_dark" width="80%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Senurcreate&theme=nord_dark" width="80%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Senurcreate&theme=nord_dark&utcOffset=8" width="40%" />
 
 
@@ -76,6 +76,7 @@ I'm a Software Engineering student who loves turning complex problems into elega
 `PyCharm` `Jira`
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ## 👾 Take a break from reading code...
 [![Play Tetris](https://via.placeholder.com/600x150/111/fff?text=Click+Here+to+Play+Tetris!)](https://[your-username].github.io/[your-repository-name]/tetris/)
