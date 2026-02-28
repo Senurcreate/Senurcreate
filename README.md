@@ -1,16 +1,15 @@
 <div align="center">
   
 # 👋 Hi, I'm Senuri Thilakarathne
-**Software Engineering Undergraduate | Aspiring UI/UX & Frontend Developer**
+**Software Engineering Undergraduate | Aspiring UI/UX & Full Stack Developer**
 
 </div>
 
-I'm a Software Engineering student who loves turning complex problems into elegant, functional code and intuitive designs. I am currently seeking a UI/UX or Frontend Development internship for 2026!
+I'm a Software Engineering student who loves turning complex problems into elegant, functional code and intuitive designs.
 
-* 🚀 **Current Focus:** Leading full-stack MERN development (recently built an EBookstore!) and building responsive frontend applications.
+* 🚀 **Current Focus:**  Building full-stack applications.
 * 🎨 **Design-Minded:** UI/UX enthusiast with hands-on experience in Figma, Adobe Suite, and application redesigns focused on user well-being.
-* 🌱 **Currently Learning:** Deepening my knowledge in SQL (normalization, triggers), Java multithreading, and Object-Oriented design patterns.
-
+* 🌱 **Currently Learning:** Game development! 
 > *"Design is not just what it looks like and feels like. Design is how it works."*
 
 <br/>
@@ -75,5 +74,16 @@ I'm a Software Engineering student who loves turning complex problems into elega
 
 <br/>
 
-## 👾 Take a break from reading code...
-[![Play Tetris](https://via.placeholder.com/600x150/111/fff?text=Click+Here+to+Play+Tetris!)](https://Senurcreate.github.io/Senurcreate/tetris/)
+<div align="center">
+
+  <h2>👾 Take a break from reading code...</h2>
+
+  <a href="https://Senurcreate.github.io/Senurcreate/tetris/">
+    <img src="./tetris.gif" width="250" alt="Tetris Gameplay">
+  </a>
+  <br><br>
+    <img src="https://img.shields.io/badge/🕹️_Click_Here_to_Play_Tetris!-2ea44f?style=for-the-badge" alt="Play Tetris">
+
+  <p><i>(Pro tip: Middle-click or hold Ctrl/Cmd while clicking to open in a new tab!)</i></p>
+
+</div>
