@@ -66,4 +66,4 @@ I'm a Software Engineering student who loves turning complex problems into elega
 </picture>
 
 ## 👾 Take a break from reading code...
-[![Play Tetris](https://via.placeholder.com/600x150/111/fff?text=Click+Here+to+Play+Tetris!)](https://[Senurcreate].github.io/[Senurcreate]/tetris/)
+[![Play Tetris](https://via.placeholder.com/600x150/111/fff?text=Click+Here+to+Play+Tetris!)](https://Senurcreate.github.io/Senurcreate/tetris/)
