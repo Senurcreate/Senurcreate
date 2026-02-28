@@ -6,74 +6,65 @@ I'm a Software Engineering student who loves turning complex problems into elega
 🎨 Design-Minded: UI/UX enthusiast with a background in Figma and Adobe Suite.
 
 🛠️ Tech Stack: MERN, Java, SQL, and a growing interest in mobile development.
+</br>
 
 "Design is not just what it looks like and feels like. Design is how it works."
+</br>
+</br>
 
 ## 🚀 Tech Stack
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,angular,apache,behance,blender,bootstrap,codeblocks,eclipse,expo,figma,firebase,freecodecamp,gimp,git,gitbash,githubactions,github,gsap,illustrator,java,jira,json,mongodb,mysql,nextjs,nodejs,npm,photoshop,php,postman,pycharm,python,react,reactnative,redis,redux,render,sass,selenium,tailwindcss,threejs,typescript,vercel,visualstudio,vite,vscode,vuejs)
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Senurcreate&theme=nord" width="40%" />
-
-# 📊 GitHub Stats:
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Senurcreate&theme=nord_dark" width="40%" />
-
-### 📊 GitHub Profile Summary
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Senurcreate&theme=nord_dark" width="80%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Senurcreate&theme=nord_dark&utcOffset=8" width="40%" />
-
-
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Senurcreate&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Senurcreate&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
----
+</br>
 
 ### 💻 Programming Languages
-`JavaScript` `TypeScript` `Java` `Python` `PHP` `HTML` `CSS` `JSON`
-
----
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,java,php,python,json)
 
 ### 🌐 Frontend Development
-`React` `Next.js` `Vue.js` `Angular` `React Native` `Expo`  
-`Redux` `GSAP` `Three.js` `Tailwind CSS` `Bootstrap` `Sass` `Vite`
-
----
-
-### 🔧 Backend & Databases
-`Node.js` `MongoDB` `MySQL` `Firebase` `Redis`
-
----
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,expo,gsap,nextjs,angular,react,reactnative,redux,tailwindcss,threejs,vuejs,sass,vite)
 
 ### 🛠️ DevOps & Deployment
-`Git` `Git Bash` `GitHub` `GitHub Actions`  
-`Render` `Vercel` `Apache` `npm`
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apache,git,gitbash,githubactions,github,npm,render,vercel)
 
----
-
-### 🎨 UI/UX & Design Tools
-`Figma` `Adobe Illustrator` `Adobe Photoshop`  
-`Behance` `Blender` `GIMP`
-
----
-
-### 🧪 Testing & API Tools
-`Postman` `Selenium`
-
----
+### 🔧 Backend & Databases
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,nodejs,redis,firebase)
 
 ### 🖥️ IDEs & Development Tools
-`VS Code` `Visual Studio` `Eclipse` `Code::Blocks`  
-`PyCharm` `Jira`
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,codeblocks,eclipse,jira,pycharm)
+
+### 🎨 UI/UX & Design Tools
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=behance,blender,gimp,figma,illustrator,photoshop,)
+### 🧪 Testing & API Tools
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,selenium)
+
+</br></br>
+
+# 📊 GitHub Stats:
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+
+<!-- LEFT PANEL -->
+<td align="center" width="48%" valign="top">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Senurcreate&theme=nord_dark"  />
+</td>
+
+<td align="center" width="48%" valign="top">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Senurcreate&theme=nord_dark&utcOffset=8" />
+</td>
+</tr>
+</table>
+</br>
+<img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Senurcreate&theme=nord" width="60%"/>
+</br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Senurcreate&theme=nord_dark" width="80%" />
+
+
+
+
+
+
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
