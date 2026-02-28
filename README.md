@@ -1,18 +1,20 @@
 👋 Hi, I’m [Your Name]! >
 I'm a Software Engineering student who loves turning complex problems into elegant, functional code.
 
-🚀 Current Focus: Building full-stack applications with React, Node.js, and TypeScript.
+🚀 Current Focus: Building full-stack applications.
 
 🎨 Design-Minded: UI/UX enthusiast with a background in Figma and Adobe Suite.
 
-🛠️ Tech Stack: MERN, Java, SQL, and a growing interest in mobile development.
+🛠️ Tech Stack: MERN, Java, SQL, and a growing interest in game development.
+</br>
 </br>
 
 "Design is not just what it looks like and feels like. Design is how it works."
 </br>
 </br>
 
-## 🚀 Tech Stack
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />  ## Tech Stack
+ 
 
 </br>
 
