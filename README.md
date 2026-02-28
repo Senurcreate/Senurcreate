@@ -1,6 +1,11 @@
 <div align="center">
+  <img src="./workspace.gif" width="250" alt="workspace image">
   
-# 👋 Hi, I'm Senuri Thilakarathne
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=68eaf1&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;UI%2FUX+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+</div>
+  
+# <img src="./pikachu-pokemon.gif" width="50" align="absmiddle" alt="workspace image"> Hi, I'm Senuri Thilakarathne
 **Software Engineering Undergraduate | Aspiring UI/UX & Full Stack Developer**
 
 </div>
