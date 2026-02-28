@@ -59,17 +59,11 @@ I'm a Software Engineering student who loves turning complex problems into elega
 </br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Senurcreate&theme=nord_dark" width="80%" />
 
-
-
-
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Senurcreate/Senurcreate/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Senurcreate/Senurcreate/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Senurcreate/Senurcreate/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 👾 Take a break from reading code...
-[![Play Tetris](https://via.placeholder.com/600x150/111/fff?text=Click+Here+to+Play+Tetris!)](https://[your-username].github.io/[your-repository-name]/tetris/)
+[![Play Tetris](https://via.placeholder.com/600x150/111/fff?text=Click+Here+to+Play+Tetris!)](https://[Senurcreate].github.io/[Senurcreate]/tetris/)
