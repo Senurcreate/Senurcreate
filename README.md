@@ -45,34 +45,22 @@
  
 ## 📊 GitHub Stats
 
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Senurcreate&theme=nord_dark" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%" valign="top">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Senurcreate&theme=nord_dark&utcOffset=8" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<br/>
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Senurcreate&theme=nord_dark" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Senurcreate&theme=nord" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Senurcreate&theme=nord" alt="GitHub Streak" width="60%" />
+  <br/>
 
-<br/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Senurcreate&theme=nord_dark" alt="Profile Details" width="60%" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Senurcreate/Senurcreate/output/github-contribution-grid-snake-dark.svg">  
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Senurcreate/Senurcreate/output/github-contribution-grid-snake.svg">
-</picture>
-<br/>
-
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Commits" width="80%">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Commits" width="90%">
 
 </div>
 
@@ -93,10 +81,9 @@
 
 ---
 
-<br><br>
+<br>
 <div align="center">
-  <img src="./gifs/bye.gif" width="20%" alt="Footer Banner">
-  <br/>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F3D77C&center=true&vCenter=true&width=600&lines=See+Ya+bye+!" alt="Typing SVG" />
 
 </div>
