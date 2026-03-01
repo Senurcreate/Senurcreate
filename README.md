@@ -1,11 +1,11 @@
 <div align="center">
 
-  # Hi, <img src="./pikachu-pokemon.gif" width="50" align="absmiddle" alt="workspace image">  I'm Senuri Thilakarathne
+  # Hi, <img src="./gifs/pikachu-pokemon.gif" width="50" align="absmiddle" alt="workspace image">  I'm Senuri Thilakarathne
   </br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F3D77C&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;UI%2FUX+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="./Animated Pixel Art Creations by Kirokaze _ Inspiration Grid.gif" width="100%" alt="workspace image">  
+  <img src="./gifs/Animated Pixel Art Creations by Kirokaze _ Inspiration Grid.gif" width="100%" alt="workspace image">  
 
 </br></br>
 🚀 **Current Focus:**  Building full-stack applications. </br>
@@ -35,7 +35,7 @@
 ### 🎨 UI/UX, IDEs & Tools
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,illustrator,photoshop,behance,blender,gimp)
 <br/>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,eclipse,jira,postman,selenium)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,eclipse,idea,pycharm,jira,postman,selenium)
 
 </div>
 
@@ -67,10 +67,12 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Senurcreate/Senurcreate/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Senurcreate/Senurcreate/output/github-contribution-grid-snake-dark.svg">  
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Senurcreate/Senurcreate/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Senurcreate/Senurcreate/output/github-contribution-grid-snake.svg">
 </picture>
+<br/>
+
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Commits" width="80%">
 
 </div>
 
@@ -79,7 +81,7 @@
 <div align="center">
 
   <h2>👾 Take a break...</h2>
-  <img src="./tetris.gif" width="200" alt="Tetris Gameplay">
+  <img src="./gifs/tetris.gif" width="200" alt="Tetris Gameplay">
   <br><br>
   <a href="https://Senurcreate.github.io/Senurcreate/tetris/">
     <img src="https://img.shields.io/badge/🕹️_Click_Here_to_Play_Tetris!-2ea44f?style=for-the-badge" alt="Play Tetris">
@@ -93,7 +95,9 @@
 
 <br><br>
 <div align="center">
-  <img src="./bye.gif" width="20%" alt="Footer Banner">
-  <p><i>See ya bye! 👋</i></p>
+  <img src="./gifs/bye.gif" width="20%" alt="Footer Banner">
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F3D77C&center=true&vCenter=true&width=600&lines=See+Ya+bye+!" alt="Typing SVG" />
+
 </div>
 
