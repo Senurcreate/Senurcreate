@@ -1,27 +1,31 @@
 <div align="center">
-  <img src="./workspace.gif" width="250" alt="workspace image">
-  
-  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=68eaf1&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;UI%2FUX+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 </div>
+<div align="center">
+  <img src="./mario.gif" width="600" alt="workspace image">
   
-# <img src="./pikachu-pokemon.gif" width="50" align="absmiddle" alt="workspace image"> Hi, I'm Senuri Thilakarathne
+  
+</br></br>
+  
+## <img src="./pikachu-pokemon.gif" width="50" align="absmiddle" alt="workspace image"> Hi, I'm Senuri Thilakarathne
 **Software Engineering Undergraduate | Aspiring UI/UX & Full Stack Developer**
 
+</br></br>
+🚀 **Current Focus:**  Building full-stack applications. </br>
+🎨 **Design-Minded:** UI/UX enthusiast with hands-on experience in Figma & Adobe Suite.</br>
+🌱 Currently Learning: Game development!</br></br>
+
 </div>
-
-I'm a Software Engineering student who loves turning complex problems into elegant, functional code and intuitive designs.
-
-* 🚀 **Current Focus:**  Building full-stack applications.
-* 🎨 **Design-Minded:** UI/UX enthusiast with hands-on experience in Figma, Adobe Suite, and application redesigns focused on user well-being.
-* 🌱 **Currently Learning:** Game development! 
-> *"Design is not just what it looks like and feels like. Design is how it works."*
 
 <br/>
 
-## 🚀 Tech Stack
+
 
 <div align="center">
+
+  
+## 🚀 Tech Stack
+<br/>
 
 ### 💻 Programming Languages
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,java,php,python,json)
@@ -42,11 +46,14 @@ I'm a Software Engineering student who loves turning complex problems into elega
 
 </div>
 
-<br/>
+<br/><br/>
 
-## 📊 GitHub Stats
+
 
 <div align="center">
+
+  
+## 📊 GitHub Stats
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
@@ -84,7 +91,7 @@ I'm a Software Engineering student who loves turning complex problems into elega
   <h2>👾 Take a break from reading code...</h2>
 
   
-  <img src="./tetris.gif" width="250" alt="Tetris Gameplay">
+  <img src="./tetris.gif" width="200" alt="Tetris Gameplay">
  
   <br><br>
   <a href="https://Senurcreate.github.io/Senurcreate/tetris/">
@@ -94,3 +101,12 @@ I'm a Software Engineering student who loves turning complex problems into elega
   <p><i>(Pro tip: Middle-click or hold Ctrl/Cmd while clicking to open in a new tab!)</i></p>
 
 </div>
+
+---
+
+<br><br>
+<div align="center">
+  <img src="./bye.gif" width="20%" alt="Footer Banner">
+  <p><i>See ya bye! 👋</i></p>
+</div>
+
