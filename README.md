@@ -2,7 +2,7 @@
 
   # Hi, <img src="./pikachu-pokemon.gif" width="50" align="absmiddle" alt="workspace image">  I'm Senuri Thilakarathne
   </br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F3D77C&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;UI%2FUX+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F3D77C&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;UI%2FUX+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 <div align="center">
   <img src="./Animated Pixel Art Creations by Kirokaze _ Inspiration Grid.gif" width="100%" alt="workspace image">  
