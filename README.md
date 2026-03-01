@@ -1,29 +1,22 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=68eaf1&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;UI%2FUX+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+
+  # Hi, <img src="./pikachu-pokemon.gif" width="50" align="absmiddle" alt="workspace image">  I'm Senuri Thilakarathne
+  </br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F3D77C&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;UI%2FUX+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="./mario.gif" width="600" alt="workspace image">
-  
-  
-</br></br>
-  
-## <img src="./pikachu-pokemon.gif" width="50" align="absmiddle" alt="workspace image"> Hi, I'm Senuri Thilakarathne
-**Software Engineering Undergraduate | Aspiring UI/UX & Full Stack Developer**
+  <img src="./Animated Pixel Art Creations by Kirokaze _ Inspiration Grid.gif" width="100%" alt="workspace image">  
 
 </br></br>
 🚀 **Current Focus:**  Building full-stack applications. </br>
 🎨 **Design-Minded:** UI/UX enthusiast with hands-on experience in Figma & Adobe Suite.</br>
-🌱 Currently Learning: Game development!</br></br>
+🌱 **Currently Learning**: Game development!</br></br>
 
 </div>
-
 <br/>
 
-
-
 <div align="center">
-
-  
+ 
 ## 🚀 Tech Stack
 <br/>
 
@@ -33,11 +26,11 @@
 ### 🌐 Frontend Development
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,expo,gsap,nextjs,angular,react,reactnative,redux,tailwindcss,threejs,vuejs,sass,vite)
 
-### 🛠️ DevOps & Deployment
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apache,git,gitbash,githubactions,github,npm,render,vercel)
-
 ### 🔧 Backend & Databases
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,nodejs,redis,firebase)
+
+### 🛠️ DevOps & Deployment
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apache,git,gitbash,githubactions,github,npm,render,vercel)
 
 ### 🎨 UI/UX, IDEs & Tools
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,illustrator,photoshop,behance,blender,gimp)
@@ -48,11 +41,8 @@
 
 <br/><br/>
 
-
-
 <div align="center">
-
-  
+ 
 ## 📊 GitHub Stats
 
 <table width="100%" cellspacing="0" cellpadding="0">
@@ -88,11 +78,8 @@
 
 <div align="center">
 
-  <h2>👾 Take a break from reading code...</h2>
-
-  
+  <h2>👾 Take a break...</h2>
   <img src="./tetris.gif" width="200" alt="Tetris Gameplay">
- 
   <br><br>
   <a href="https://Senurcreate.github.io/Senurcreate/tetris/">
     <img src="https://img.shields.io/badge/🕹️_Click_Here_to_Play_Tetris!-2ea44f?style=for-the-badge" alt="Play Tetris">
