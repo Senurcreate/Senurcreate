@@ -20,23 +20,7 @@
 ## 🚀 Tech Stack
 <br/>
 
-### 💻 Programming Languages
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,java,php,python,json)
-
-### 🌐 Frontend Development
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,expo,gsap,nextjs,angular,react,reactnative,redux,tailwindcss,threejs,vuejs,sass,vite)
-
-### 🔧 Backend & Databases
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,nodejs,redis,firebase)
-
-### 🛠️ DevOps & Deployment
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apache,git,gitbash,githubactions,github,npm,render,vercel)
-
-### 🎨 UI/UX, IDEs & Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,illustrator,photoshop,behance,blender,gimp)
-<br/>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,eclipse,idea,pycharm,jira,postman,selenium)
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,java,php,python,json,bootstrap,expo,gsap,nextjs,angular,react,reactnative,redux,tailwindcss,threejs,vuejs,sass,vite,mongodb,mysql,nodejs,redis,firebase,apache,git,gitbash,githubactions,github,npm,render,vercel,figma,illustrator,photoshop,behance,blender,visualstudio,vscode,eclipse,idea,pycharm,jira,postman,selenium)
 </div>
 
 <br/><br/>
