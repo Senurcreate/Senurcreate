@@ -85,10 +85,51 @@
             color: #fff;
         }
 
+        .canvas-container {
+            position: relative;
+            display: inline-block;
+        }
+
         canvas {
             border: 2px solid #333;
             background-color: #000;
             box-shadow: 0 0 20px rgba(0, 255, 0, 0.2);
+            display: block;
+        }
+
+        #game-over-screen, #pause-screen {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.85);
+            display: none; /* Hidden by default */
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 10;
+        }
+
+        #game-over-screen h2 {
+            color: #ff3131;
+            font-size: 2.5rem;
+            margin: 0 0 20px 0;
+            text-shadow: 0 0 10px #ff3131, 0 0 20px #ff0000;
+            letter-spacing: 2px;
+        }
+
+        #pause-screen h2 {
+            color: #0ff;
+            font-size: 2.5rem;
+            margin: 0 0 10px 0;
+            text-shadow: 0 0 10px #0ff;
+            letter-spacing: 2px;
+        }
+
+        #pause-screen p {
+            color: #fff;
+            font-size: 1rem;
         }
 
         #restart-btn {
@@ -104,10 +145,13 @@
             cursor: pointer;
             border-radius: 4px;
             text-transform: uppercase;
+            box-shadow: 0 0 10px #0f0;
+            transition: all 0.2s ease;
         }
 
         #restart-btn:hover {
-            background-color: #0c0;
+            background-color: #fff;
+            box-shadow: 0 0 15px #fff;
         }
     </style>
 </head>
@@ -124,14 +168,26 @@
                     <li><strong>Left / Right Arrows</strong> Move piece sideways</li>
                     <li><strong>Up Arrow</strong> Rotate piece</li>
                     <li><strong>Down Arrow</strong> Drop piece faster</li>
+                    <li><strong>P</strong> Pause / Resume</li>
+                    <li><strong>R</strong> Restart Game</li>
                 </ul>
             </div>
         </div>
 
         <div class="game-area">
             <div id="score-display">Score: <span>0</span></div>
-            <canvas width="320" height="640" id="game"></canvas>
-            <button id="restart-btn">Restart Game</button>
+            <div class="canvas-container">
+                <canvas width="320" height="640" id="game"></canvas>
+                <div id="game-over-screen">
+                        <h2>GAME OVER</h2>
+                        <button id="restart-btn">Restart</button>
+                </div>
+    
+                <div id="pause-screen">
+                    <h2>PAUSED</h2>
+                    <p>Press 'P' to resume</p>
+                </div>
+            </div>
         </div>
 
         <div></div> 
@@ -143,6 +199,8 @@
         const context = canvas.getContext('2d');
         const restartBtn = document.getElementById('restart-btn');
         const scoreElement = document.querySelector('#score-display span');
+        const gameOverScreen = document.getElementById('game-over-screen');
+        const pauseScreen = document.getElementById('pause-screen');
         
         const grid = 32;
         const tetrominoSequence = [];
@@ -177,6 +235,7 @@
         let count = 0;
         let tetromino = getNextTetromino();
         let gameOver = false;
+        let isPaused = false;
         let rAF;
         let score = 0;
 
@@ -264,21 +323,14 @@
         function showGameOver() {
             cancelAnimationFrame(rAF);
             gameOver = true;
-            context.fillStyle = 'black';
-            context.globalAlpha = 0.75;
-            context.fillRect(0, canvas.height / 2 - 30, canvas.width, 60);
-            context.globalAlpha = 1;
-            context.fillStyle = 'white';
-            context.font = '36px monospace';
-            context.textAlign = 'center';
-            context.textBaseline = 'middle';
-            context.fillText('GAME OVER', canvas.width / 2, canvas.height / 2);
-            
-            restartBtn.style.display = 'block';
+            gameOverScreen.style.display = 'flex';
         }
 
         function resetGame() {
-            restartBtn.style.display = 'none';
+            cancelAnimationFrame(rAF);
+            gameOverScreen.style.display = 'none';
+            pauseScreen.style.display = 'none';
+            
             for (let row = -2; row < 20; row++) {
                 for (let col = 0; col < 10; col++) {
                     playfield[row][col] = 0;
@@ -288,6 +340,7 @@
             tetromino = getNextTetromino();
             count = 0;
             gameOver = false;
+            isPaused = false;
             
 
             score = 0;
@@ -296,6 +349,20 @@
             rAF = requestAnimationFrame(loop);
         }
 
+        restartBtn.addEventListener('click', resetGame);
+
+        function togglePause() {
+            if (gameOver) return;
+            isPaused = !isPaused;
+            
+            if (isPaused) {
+                cancelAnimationFrame(rAF);
+                pauseScreen.style.display = 'flex';
+            } else {
+                pauseScreen.style.display = 'none';
+                rAF = requestAnimationFrame(loop);
+            }
+        }
         restartBtn.addEventListener('click', resetGame);
 
         function loop() {
@@ -333,7 +400,16 @@
         }
 
         document.addEventListener('keydown', function(e) {
-            if (gameOver) return;
+            if (e.key.toLowerCase() === 'r') {
+                resetGame();
+                return;
+            }
+            if (e.key.toLowerCase() === 'p') {
+                togglePause();
+                return;
+            }
+
+            if (gameOver || isPaused) return;
             
             // Prevent default scrolling when using arrow keys
             if(["Space", "ArrowUp", "ArrowDown", "ArrowLeft", "ArrowRight"].indexOf(e.code) > -1) {
