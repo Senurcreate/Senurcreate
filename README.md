@@ -1,16 +1,16 @@
 <div align="center">
-
+  
   # Hi, <img src="./gifs/pikachu-pokemon.gif" width="50" align="absmiddle" alt="workspace image">  I'm Senuri Thilakarathne
   </br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F3D77C&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;UI%2FUX+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 <div align="center">
   <img src="./gifs/Animated Pixel Art Creations by Kirokaze _ Inspiration Grid.gif" width="100%" alt="workspace image">  
-
 </br></br>
-🚀 **Current Focus:**  Building full-stack applications. </br>
-🎨 **Design-Minded:** UI/UX enthusiast with hands-on experience in Figma & Adobe Suite.</br>
-🌱 **Currently Learning**: Game development!</br></br>
+🚀 Full-Stack Developer in progress </br>
+🎨 UI/UX Designer at heart</br>
+🛠️ Java | MERN | SQL</br>
+🌱 Focused on building impactful digital experiences</br></br>
 
 </div>
 <br/>
@@ -63,12 +63,10 @@
 
 </div>
 
+<br/><br/>
+<sub><em>Designing and building with intention. ✨</em></sub>
+
 ---
 
-<br>
-<div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F3D77C&center=true&vCenter=true&width=600&lines=See+Ya+bye+!" alt="Typing SVG" />
-
-</div>
 
