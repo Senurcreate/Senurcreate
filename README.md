@@ -65,12 +65,12 @@
     <img src="https://img.shields.io/badge/🕹️_Click_Here_to_Play_Tetris!-2ea44f?style=for-the-badge" alt="Play Tetris">
   </a>
 
-  <p><i>(Pro tip: Middle-click or hold Ctrl/Cmd while clicking to open in a new tab!)</i></p>
+  <sub><em>(Pro tip: Middle-click or hold Ctrl/Cmd while clicking to open in a new tab!)</em></sub>
 
 </div>
 
-<br/><br/>
-<sub><em>Designing and building with intention. ✨</em></sub>
+<br/><br/><br/>
+*Designing and building with intention. ✨*
 
 ---
 
