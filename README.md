@@ -20,8 +20,14 @@
 ## 🚀 Tech Stack
 <br/>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,java,php,python,json,bootstrap,expo,gsap,nextjs,angular,react,reactnative,redux,tailwindcss,threejs,vuejs,sass,vite,mongodb,mysql,nodejs,redis,firebase,apache,git,gitbash,githubactions,github,npm,render,vercel,figma,illustrator,photoshop,behance,blender,visualstudio,vscode,eclipse,idea,pycharm,jira,postman,selenium)
-</div>
+<!-- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,java,php,python,json,bootstrap,expo,gsap,nextjs,angular,react,reactnative,redux,tailwindcss,threejs,vuejs,sass,vite,mongodb,mysql,nodejs,redis,firebase,apache,git,gitbash,githubactions,github,npm,render,vercel,figma,illustrator,photoshop,behance,blender,visualstudio,vscode,eclipse,idea,pycharm,jira,postman,selenium)
+</div>) -->
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,java,php,python,json,bootstrap,expo,gsap,nextjs,angular,react,reactnative,redux,tailwindcss,threejs,vuejs,sass,vite,mongodb,mysql,nodejs,redis,firebase,apache,git,gitbash,githubactions,github,npm,render,vercel,figma,illustrator,photoshop,behance,blender,visualstudio,vscode,eclipse,idea,pycharm,jira&perline=15" />
+  <br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,selenium" />
+</p>
 
 <br/><br/>
 
