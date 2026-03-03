@@ -5,28 +5,39 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F3D77C&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;UI%2FUX+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="./gifs/Animated Pixel Art Creations by Kirokaze _ Inspiration Grid.gif" width="100%" alt="workspace image">  
+  <img src="./gifs/Animated Pixel Art Creations by Kirokaze _ Inspiration Grid.gif" width="90%" alt="workspace image">  
 </br></br>
-🚀 Full-Stack Developer in progress </br>
-🎨 UI/UX Designer at heart</br>
-🛠️ Java | MERN | SQL</br>
-🌱 Focused on building impactful digital experiences</br></br>
+
+  
+  ## 🌿 About Me
+  I enjoy designing intuitive interfaces and turning ideas into real, usable products.</br>Currently diving deeper into full-stack architecture while refining my UI/UX thinking.</br></br>
+  🚀 Full-Stack Developer in progress </br>
+  🎨 UI/UX Designer at Heart</br>
+  🛠️ Java | MERN | SQL</br>
+  🌱 Focused on building impactful digital experiences</br></br>
 
 </div>
 <br/>
 
 <div align="center">
  
-## 🚀 Tech Stack
+## 🚀 Core Stack
 <br/>
 
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,java,python,express,react,mongodb,mysql,nodejs&perline=15" />
+</p>
+
+<br/>
+
+## 🧰 Technologies & Tools
 <!-- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,java,php,python,json,bootstrap,expo,gsap,nextjs,angular,react,reactnative,redux,tailwindcss,threejs,vuejs,sass,vite,mongodb,mysql,nodejs,redis,firebase,apache,git,gitbash,githubactions,github,npm,render,vercel,figma,illustrator,photoshop,behance,blender,visualstudio,vscode,eclipse,idea,pycharm,jira,postman,selenium)
 </div>) -->
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,java,php,python,json,bootstrap,expo,gsap,nextjs,angular,react,reactnative,redux,tailwindcss,threejs,vuejs,sass,vite,mongodb,mysql,nodejs,redis,firebase,apache,git,gitbash,githubactions,github,npm,render,vercel,figma,illustrator,photoshop,behance,blender,visualstudio,vscode,eclipse,idea,pycharm,jira&perline=15" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,php,bootstrap,expo,gsap,nextjs,reactnative,redux,tailwindcss,threejs,sass,vite,redis&perline=15" />
   <br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,selenium" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase,git,githubactions,github,render,vercel,figma,illustrator,photoshop,blender,jira,postman,selenium&perline=15" />
 </p>
 
 <br/><br/>
@@ -37,7 +48,7 @@
 
 <div align="center">
 
-  <table width="100%">
+  <table width="80%">
     <tr>
       <td width="50%" align="center">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Senurcreate&theme=nord_dark" alt="GitHub Stats" />
@@ -50,11 +61,11 @@
 
   <br/>
 
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Commits" width="90%">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Commits" width="90%">
 
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
