@@ -77,19 +77,19 @@
   </a>
 
   <sub><em>(Pro tip: Middle-click or hold Ctrl/Cmd while clicking to open in a new tab!)</em></sub>
+  <br/>
+  <sub>🎮 Tetris © 2026 Senuri Thilakarathne — <a href="LICENSE">MIT</a> License</sub>
 
 </div>
 
 <br/><br/><br/>
 *✨ Designing and building with intention. ✨*
-<br/><br/>
+
 
 
 ---
 
 
-<div align="center">
-  <sub>Licensed under <a href="LICENSE">MIT</a> © 2026 Senuri Thilakarathne</sub>
-</div>
+
 
 
