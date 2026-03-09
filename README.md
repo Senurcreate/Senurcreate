@@ -85,5 +85,8 @@
 
 ---
 
+<div align="center">
+  <sub>Licensed under <a href="LICENSE">MIT</a> © 2026 Senuri Thilakarathne</sub>
+</div>
 
 
