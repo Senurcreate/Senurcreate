@@ -77,7 +77,7 @@
   </a>
 
   <sub><em>(Pro tip: Middle-click or hold Ctrl/Cmd while clicking to open in a new tab!)</em></sub>
-  <br/>
+  <br/><br/>
   <sub>🎮 Tetris © 2026 Senuri Thilakarathne — <a href="LICENSE">MIT</a> License</sub>
 
 </div>
