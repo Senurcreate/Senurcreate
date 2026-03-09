@@ -81,9 +81,12 @@
 </div>
 
 <br/><br/><br/>
-*Designing and building with intention. ✨*
+*✨ Designing and building with intention. ✨*
+<br/><br/>
+
 
 ---
+
 
 <div align="center">
   <sub>Licensed under <a href="LICENSE">MIT</a> © 2026 Senuri Thilakarathne</sub>
