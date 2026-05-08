@@ -31,13 +31,13 @@
 <br/>
 
 ## 🧰 Technologies & Tools
-<!-- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,java,php,python,json,bootstrap,expo,gsap,nextjs,angular,react,reactnative,redux,tailwindcss,threejs,vuejs,sass,vite,mongodb,mysql,nodejs,redis,firebase,apache,git,gitbash,githubactions,github,npm,render,vercel,figma,illustrator,photoshop,behance,blender,visualstudio,vscode,eclipse,idea,pycharm,jira,postman,selenium)
+<!-- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,java,php,python,json,bootstrap,expo,gsap,nextjs,angular,react,reactnative,redux,tailwindcss,threejs,vuejs,sass,vite,mongodb,mysql,nodejs,redis,firebase,apache,git,gitbash,githubactions,github,docker,kubernetes,npm,render,vercel,figma,illustrator,photoshop,behance,blender,visualstudio,vscode,eclipse,idea,pycharm,jira,postman,selenium)
 </div>) -->
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,php,bootstrap,expo,gsap,nextjs,reactnative,redux,tailwindcss,threejs,sass,vite,redis&perline=15" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,php,bootstrap,expo,gsap,nextjs,reactnative,redux,tailwindcss,threejs,sass,vite,redis,firebase&perline=16" />
   <br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase,git,githubactions,github,render,vercel,figma,illustrator,photoshop,blender,jira,postman,selenium&perline=15" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,githubactions,github,docker,kubernetes,render,vercel,figma,illustrator,photoshop,blender,jira,postman,selenium&perline=16" />
 </p>
 
 <br/><br/>
