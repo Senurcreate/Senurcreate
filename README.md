@@ -35,9 +35,11 @@
 </div>) -->
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,php,bootstrap,expo,gsap,nextjs,reactnative,redux,tailwindcss,threejs,golang,sass,vite,redis,firebase,linux&perline=16" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,php,bootstrap,expo,gsap,nextjs,reactnative,redux,tailwindcss,threejs,golang,sass&perline=12" />
   <br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,githubactions,github,docker,kubernetes,render,vercel,figma,illustrator,photoshop,blender,jira,postman,selenium&perline=16" />
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=vite,redis,firebase,linux,git,githubactions,github,docker,kubernetes,render,vercel,figma&perline=12" />
+  <br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=illustrator,photoshop,blender,jira,postman,selenium&perline=12" />
 </p>
 
 <br/><br/>
